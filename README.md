@@ -14,6 +14,7 @@
 </a>&nbsp;&nbsp; -->
 <a href="mailto:contact.singhmohit@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<img src = "https://gpvc.arturio.dev/mrunfunny" width = 0 >
 </a>&nbsp;&nbsp;
 </p>
 
