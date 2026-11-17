@@ -21,6 +21,11 @@ Java · Spring Boot · Kafka · Temporal · PostgreSQL · Redis · AWS</p>
 - **Co-lending integrations**: partner settlement flows behind ₹100 Cr of disbursals
 - **Self-custody Bitcoin wallet** backend, built from scratch
 
+### Projects
+- **[harness](https://github.com/MrUnfunny/harness)**: a Claude Code-style coding agent in Java 21 that runs on a local model (Ollama). ReAct loop, 11 tools, approvals, resumable sessions
+- **[ghost-frame](https://github.com/MrUnfunny/ghost-frame)**: Android (Kotlin) overlay that floats a see-through reference photo over the stock camera so you can match a pose
+- **[focus-block](https://github.com/MrUnfunny/focus-block)**: small Windows app that blocks distracting sites for a set time
+
 ### Open source
 - **[apache/casbin-dart-casbin](https://github.com/apache/casbin-dart-casbin)**: Dart port of the Casbin authorization library (ACL, RBAC, ABAC). Built as a GSoC 2021 student; now a GSoC mentor at Casbin.
 - **[Open-Source-License-Matcher](https://github.com/MrUnfunny/Open-Source-License-Matcher)**: detects SPDX licenses from LICENSE files
